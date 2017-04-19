@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+}
+
+.abuela {
+  position: relative;
+  height: 250px;
+  width: 250px;
+  background: #FF001E;
+  left: 50px;
+  margin-top: 60px;
+
+}
+
+.madre {
+  position: absolute;
+  height: 150px;
+  width: 150px;
+  background: #9C19AD;
+  top: 50px;
+  left: 50px;
+}
+
+.hija {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  background: #FFF700;
+  top:0;
+  left: 0;
+}
+
+
+#abuelo {
+  background: #111BDF;
+}
+
+#padre {
+  background: #1ADA4D;
+}
+
+#hijo {
+  background: #000000;
+}
